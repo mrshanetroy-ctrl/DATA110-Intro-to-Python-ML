@@ -27,7 +27,7 @@ The dataset includes the following key water-quality parameters:
 The goal is to build a binary classification model for pollution prediction.
 
 3. 🔬 Methodology
-4. 
+ 
 3.1 🧹 Data Cleaning
    
 Treated missing values using mean/median imputation
@@ -36,6 +36,7 @@ Standardized numerical features
 Ensured consistent data formatting
 
 3.2 📈 Exploratory Data Analysis (EDA)
+
 Summary statistics for all variables
 Distribution plots for each feature
 Boxplots for detecting outliers
@@ -43,6 +44,7 @@ Correlation heatmap to identify key relationships
 Scatter plots to visualize feature influence
 
 3.3 🛠️ Feature Engineering
+
 Normalized continuous variables
 Selected influential features based on correlation strength
 Removed multicollinear or low-impact variables
